@@ -415,7 +415,8 @@
       "name":"kz_agility_v2_fix",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=392863247",
-      "mapper_name":"Aaron"
+      "mapper_name":"Aaron",
+      "mapper_steamid64":"76561198036059696"
    },
    {
       "id":"235",
@@ -4024,7 +4025,8 @@
       "name":"kz_quadrablock",
       "difficulty":"3",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=156068013",
-      "mapper_name":"Pix"
+      "mapper_name":"Pix, SinFuL",
+      "mapper_steamid64":"null, 76561197970838363"
    },
    {
       "id":"451",
