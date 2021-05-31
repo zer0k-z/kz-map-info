@@ -12,7 +12,7 @@
       "name":"bkz_blackrockshooter_vzp",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=491358151",
-      "mapper_name":"Reborn"
+      "mapper_name":"Reborn",
       "mapper_steamid64":"76561197992700411"
    },
    {
@@ -52,7 +52,7 @@
       "name":"bkz_caves_go",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=395902107",
-      "mapper_name":"pAtq"
+      "mapper_name":"pAtq",
       "mapper_steamid64":"76561197997468889"
    },
    {
@@ -67,7 +67,7 @@
       "name":"bkz_chillhop_go",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=418435525",
-      "mapper_name":"FoF"
+      "mapper_name":"FoF",
       "mapper_steamid64":"76561197991832101"
    },
    {
@@ -176,7 +176,7 @@
       "name":"bkz_measure",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=366676751",
-      "mapper_name":"ExtremerZ"
+      "mapper_name":"ExtremerZ",
       "mapper_steamid64":"76561197965479288"
    },
    {
@@ -184,7 +184,7 @@
       "name":"bkz_measure2_b03",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=498288711",
-      "mapper_name":"ExtremerZ"
+      "mapper_name":"ExtremerZ",
       "mapper_steamid64":"76561197965479288"
    },
    {
@@ -192,7 +192,7 @@
       "name":"bkz_nocturns_blue_gfix",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=1939575460",
-      "mapper_name":"Levite"
+      "mapper_name":"Levite",
       "mapper_steamid64":"76561198031166668"
    },
    {
@@ -865,7 +865,7 @@
       "name":"kz_bhop_essence",
       "difficulty":"4",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=788665755",
-      "mapper_name":"vay"
+      "mapper_name":"vay",
       "mapper_steamid64":"76561198131632059"
    },
    {
@@ -1208,7 +1208,7 @@
       "name":"kz_cartooncastle_go",
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=1170804936",
-      "mapper_name":"s0liD, karatekafer"
+      "mapper_name":"s0liD, karatekafer",
       "mapper_steamid64":"76561197980460370, null"
    },
    {
@@ -2365,7 +2365,7 @@
       "name":"kz_genesis_go2",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=491406427",
-      "mapper_name":"FoF"
+      "mapper_name":"FoF",
       "mapper_steamid64":"76561197991832101"
    },
    {
@@ -2684,7 +2684,7 @@
       "name":"kz_hillside",
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=414544226",
-      "mapper_name":"s0liD"
+      "mapper_name":"s0liD",
       "mapper_steamid64":"76561197980460370"
    },
    {
@@ -2812,7 +2812,7 @@
       "name":"kz_j2s_cupblock_go_fix2",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=156908740",
-      "mapper_name":"s0lid, Spherix"
+      "mapper_name":"s0lid, Spherix",
       "mapper_steamid64":"76561197980460370, null"
    },
    {
@@ -3211,7 +3211,7 @@
       "name":"kz_longjumps_easy",
       "difficulty":"3",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=409720195",
-      "mapper_name":"ExtremerZ"
+      "mapper_name":"ExtremerZ",
       "mapper_steamid64":"76561197965479288"
    },
    {
@@ -4117,7 +4117,7 @@
       "name":"kz_redline",
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=366676291",
-      "mapper_name":"ExtremerZ"
+      "mapper_name":"ExtremerZ",
       "mapper_steamid64":"76561197965479288"
    },
    {
@@ -4720,7 +4720,7 @@
       "name":"kz_streetblock_go",
       "difficulty":"2",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=340164148",
-      "mapper_name":"s0lid"
+      "mapper_name":"s0lid",
       "mapper_steamid64":"76561197980460370"
    },
    {
@@ -4759,7 +4759,7 @@
       "name":"kz_summercliff2_go",
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=201718436",
-      "mapper_name":"s0liD"
+      "mapper_name":"s0liD",
       "mapper_steamid64":"76561197980460370"
    },
    {
@@ -5469,7 +5469,7 @@
       "name":"xc_nephilim",
       "difficulty":"3",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=320752458",
-      "mapper_name":"G O A"
+      "mapper_name":"G O A",
       "mapper_steamid64":"76561197990887735"
    },
    {
