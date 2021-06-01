@@ -20,6 +20,6 @@ for map_info in map_list:
 
 output_file = open('IncompletedMaps.json', 'w', encoding='utf8')
 output_file.write(unescape(json.dumps(incompleted_list, indent=4)))
-print('Missing maps dumped to IncompletedMaps.json.')
-print('Remaining maps with missing information:')
-print(*incompleted_maps, sep='\n')
+incompleted_maps_file = open('IncompletedMaps_Simple.txt', 'w', encoding='utf8')
+incompleted_maps_file.writelines(["%s\n" % incompleted_map  for incompleted_map in incompleted_maps])
+print('Missing maps dumped to IncompletedMaps.json and IncompletedMaps_Simple.txt.')
