@@ -234,13 +234,6 @@
         "mapper_name": "MoHaX_cm"
     },
     {
-        "id": "506",
-        "name": "kz_toonrun_final",
-        "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=375234842",
-        "mapper_name": "BigBangQuint"
-    },
-    {
         "id": "673",
         "name": "kz_toughluck_fix",
         "difficulty": "2",
