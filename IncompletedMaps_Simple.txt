@@ -30,7 +30,6 @@ kz_pharaoh_csgo - Missing SteamID(s): Daniel_Lyness
 kz_pianoclimb_go - Missing SteamID(s): DyleT2
 kz_quadrablock - Missing SteamID(s): Pix
 kz_sanctuary - Missing SteamID(s): a$ce
-kz_slidebober - Missing SteamID(s): Slyph
 kz_sukblock_v2_fixed - Missing SteamID(s): SuckY' TearZ
 kz_sz_goldenbean - Missing SteamID(s): Kreedz
 kz_terablock - Missing SteamID(s): Kreedz

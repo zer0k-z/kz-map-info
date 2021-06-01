@@ -237,13 +237,6 @@
         "mapper_name": "a$ce"
     },
     {
-        "id": "702",
-        "name": "kz_slidebober",
-        "difficulty": "6",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1825259311",
-        "mapper_name": "Slyph"
-    },
-    {
         "id": "491",
         "name": "kz_sukblock_v2_fixed",
         "difficulty": "1",
