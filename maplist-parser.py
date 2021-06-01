@@ -5,6 +5,13 @@ def unescape(in_str):
     """Unicode-unescape string with only some characters escaped."""
     return in_str.encode('unicode-escape').replace(b'\\\\u', b'\\u').decode('unicode-escape')
 
+def missingids(name, ids):
+    missinglist = ""
+    for i in range(len(ids.split(', '))):
+        if ids.split(', ')[i] == 'null':
+            missinglist += name.split(', ')[i]
+    return missinglist
+
 input_file = open('MapsWithMappers.json', encoding='utf-8')
 map_list = json.load(input_file)
 incompleted_list = []
@@ -13,11 +20,13 @@ incompleted_maps = []
 for map_info in map_list:
     if not ('mapper_name' in map_info):
         incompleted_list.append(map_info)
-        incompleted_maps.append(map_info['name']+(' (Missing mapper name)'))
-    elif not ('mapper_steamid64' in map_info) or 'null' in map_info['mapper_steamid64']:
+        incompleted_maps.append(map_info['name']+(' - Missing mapper name'))
+    elif not ('mapper_steamid64' in map_info):
         incompleted_list.append(map_info)
-        incompleted_maps.append(map_info['name']+(' (Missing mapper steamID)'))
-
+        incompleted_maps.append(map_info['name']+(' - Missing SteamID(s): {0}').format(map_info['mapper_name']))
+    elif 'null' in map_info['mapper_steamid64']:
+        incompleted_list.append(map_info)
+        incompleted_maps.append(map_info['name']+(' - Missing SteamID(s): {0}').format(missingids(map_info['mapper_name'], map_info['mapper_steamid64'])))
 output_file = open('IncompletedMaps.json', 'w', encoding='utf8')
 output_file.write(unescape(json.dumps(incompleted_list, indent=4)))
 incompleted_maps_file = open('IncompletedMaps_Simple.txt', 'w', encoding='utf8')

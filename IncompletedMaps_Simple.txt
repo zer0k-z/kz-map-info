@@ -1,43 +1,43 @@
-bkz_hellokitty_v2 (Missing mapper steamID)
-bkz_underground_crypt_v3 (Missing mapper steamID)
-bkz_uninspired_trash (Missing mapper steamID)
-kz_7in1 (Missing mapper steamID)
-kz_akrh_warehouse_v2_gfix (Missing mapper steamID)
-kz_beginnerblock_go (Missing mapper steamID)
-kz_bhop_monsterjam (Missing mapper steamID)
-kz_bhop_sakura (Missing mapper steamID)
-kz_bluerace_v2 (Missing mapper steamID)
-kz_cartooncastle_go (Missing mapper steamID)
-kz_catalyst_gfix (Missing mapper steamID)
-kz_cg_brick_rmk (Missing mapper steamID)
-kz_cg_lighthops_go (Missing mapper steamID)
-kz_chinablock (Missing mapper steamID)
-kz_de_bhop (Missing mapper name)
-kz_ea_beneath_go (Missing mapper steamID)
-kz_forestrace_go (Missing mapper steamID)
-kz_galaxy_go2 (Missing mapper steamID)
-kz_giantbean (Missing mapper steamID)
-kz_gigablock_go (Missing mapper steamID)
-kz_haki_v2 (Missing mapper steamID)
-kz_halicarnassus_fs (Missing mapper steamID)
-kz_kzse_aztectemple (Missing mapper steamID)
-kz_littlerock_v2 (Missing mapper steamID)
-kz_luonto (Missing mapper steamID)
-kz_man_everest_go_fix (Missing mapper steamID)
-kz_megabhop_v2 (Missing mapper steamID)
-kz_nightmare_v2 (Missing mapper steamID)
-kz_pharaoh_csgo (Missing mapper steamID)
-kz_pianoclimb_go (Missing mapper steamID)
-kz_quadrablock (Missing mapper steamID)
-kz_sanctuary (Missing mapper steamID)
-kz_slidebober (Missing mapper steamID)
-kz_sukblock_v2_fixed (Missing mapper steamID)
-kz_sz_goldenbean (Missing mapper steamID)
-kz_terablock (Missing mapper steamID)
-kz_tomb_fix (Missing mapper steamID)
-kz_toughluck_fix (Missing mapper steamID)
-kz_tron_global (Missing mapper steamID)
-kz_xand (Missing mapper steamID)
-xc_fox_shrine_japan_fr (Missing mapper steamID)
-xc_skycastle (Missing mapper steamID)
-xc_supermario_go_gfix (Missing mapper steamID)
+bkz_hellokitty_v2 - Missing SteamID(s): Kore
+bkz_underground_crypt_v3 - Missing SteamID(s): Yaznee
+bkz_uninspired_trash - Missing SteamID(s): Felicienne
+kz_7in1 - Missing SteamID(s): Woozie
+kz_akrh_warehouse_v2_gfix - Missing SteamID(s): AssKicR
+kz_beginnerblock_go - Missing SteamID(s): Ovi
+kz_bhop_monsterjam - Missing SteamID(s): Aoki
+kz_bhop_sakura - Missing SteamID(s): .yuka
+kz_bluerace_v2 - Missing SteamID(s): tr4mp
+kz_cartooncastle_go - Missing SteamID(s): karatekafer
+kz_catalyst_gfix - Missing SteamID(s): umbrella
+kz_cg_brick_rmk - Missing SteamID(s): InseN
+kz_cg_lighthops_go - Missing SteamID(s): Mentalo
+kz_chinablock - Missing SteamID(s): Lehmann
+kz_de_bhop - Missing mapper name
+kz_ea_beneath_go - Missing SteamID(s): rad0n
+kz_forestrace_go - Missing SteamID(s): h1m1
+kz_galaxy_go2 - Missing SteamID(s): Woozie
+kz_giantbean - Missing SteamID(s): Kreedz
+kz_gigablock_go - Missing SteamID(s): Kreedz
+kz_haki_v2 - Missing SteamID(s): a$ce
+kz_halicarnassus_fs - Missing SteamID(s): Zengal
+kz_kzse_aztectemple - Missing SteamID(s): aegget
+kz_littlerock_v2 - Missing SteamID(s): Surion
+kz_luonto - Missing SteamID(s): sBlisss
+kz_man_everest_go_fix - Missing SteamID(s): Kreedz
+kz_megabhop_v2 - Missing SteamID(s): inSaNe, N!ghtFoX, Chuli
+kz_nightmare_v2 - Missing SteamID(s): m-tet
+kz_pharaoh_csgo - Missing SteamID(s): Daniel_Lyness
+kz_pianoclimb_go - Missing SteamID(s): DyleT2
+kz_quadrablock - Missing SteamID(s): Pix
+kz_sanctuary - Missing SteamID(s): a$ce
+kz_slidebober - Missing SteamID(s): Slyph
+kz_sukblock_v2_fixed - Missing SteamID(s): SuckY' TearZ
+kz_sz_goldenbean - Missing SteamID(s): Kreedz
+kz_terablock - Missing SteamID(s): Kreedz
+kz_tomb_fix - Missing SteamID(s): MoHaX_cm
+kz_toughluck_fix - Missing SteamID(s): TurboAgent
+kz_tron_global - Missing SteamID(s): ><))'> FISHY
+kz_xand - Missing SteamID(s): a$ce
+xc_fox_shrine_japan_fr - Missing SteamID(s): incAming
+xc_skycastle - Missing SteamID(s): Bendix
+xc_supermario_go_gfix - Missing SteamID(s): Iconic
