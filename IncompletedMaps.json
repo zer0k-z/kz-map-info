@@ -132,6 +132,22 @@
         "mapper_name": "Woozie"
     },
     {
+        "id": "361",
+        "name": "kz_giantbean",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156066438",
+        "mapper_name": "Kreedz, SinFuL",
+        "mapper_steamid64": "null, 76561197970838363"
+    },
+    {
+        "id": "362",
+        "name": "kz_gigablock_go",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=219883470",
+        "mapper_name": "Kreedz, Spherix",
+        "mapper_steamid64": "null, 76561198016516359"
+    },
+    {
         "id": "371",
         "name": "kz_haki_v2",
         "difficulty": "1",
@@ -168,6 +184,14 @@
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1102578759",
         "mapper_name": "sBlisss, GameChaos",
         "mapper_steamid64": "null, 76561198165203332"
+    },
+    {
+        "id": "407",
+        "name": "kz_man_everest_go_fix",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1098716930",
+        "mapper_name": "Kreedz, Spherix, GnagarN",
+        "mapper_steamid64": "null, 76561198016516359, 76561198009902429"
     },
     {
         "id": "410",
@@ -225,6 +249,22 @@
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=511719435",
         "mapper_name": "SuckY' TearZ"
+    },
+    {
+        "id": "498",
+        "name": "kz_sz_goldenbean",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=279111456",
+        "mapper_name": "Kreedz, SinFuL",
+        "mapper_steamid64": "null, 76561197970838363"
+    },
+    {
+        "id": "502",
+        "name": "kz_terablock",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=269563440",
+        "mapper_name": "Kreedz, SinFuL",
+        "mapper_steamid64": "null, 76561197970838363"
     },
     {
         "id": "504",

@@ -2465,7 +2465,7 @@
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=156066438",
       "mapper_name":"Kreedz, SinFuL",
-      "mapper_steamid64":"76561198115778094, 76561197970838363"
+      "mapper_steamid64":"null, 76561197970838363"
    },
    {
       "id":"362",
@@ -2473,7 +2473,7 @@
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=219883470",
       "mapper_name":"Kreedz, Spherix",
-      "mapper_steamid64":"76561198115778094, 76561198016516359"
+      "mapper_steamid64":"null, 76561198016516359"
    },
    {
       "id":"363",
@@ -3327,7 +3327,7 @@
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=1098716930",
       "mapper_name":"Kreedz, Spherix, GnagarN",
-      "mapper_steamid64":"76561198115778094, 76561198016516359, 76561198009902429"
+      "mapper_steamid64":"null, 76561198016516359, 76561198009902429"
    },
    {
       "id":"408",
@@ -4872,7 +4872,7 @@
       "difficulty":"3",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=279111456",
       "mapper_name":"Kreedz, SinFuL",
-      "mapper_steamid64":"76561198115778094, 76561197970838363"
+      "mapper_steamid64":"null, 76561197970838363"
    },
    {
       "id":"500",
@@ -4912,7 +4912,7 @@
       "difficulty":"1",
       "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=269563440",
       "mapper_name":"Kreedz, SinFuL",
-      "mapper_steamid64":"76561198115778094, 76561197970838363"
+      "mapper_steamid64":"null, 76561197970838363"
    },
    {
       "id":"816",
