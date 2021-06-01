@@ -11,7 +11,10 @@ The original spreadsheet can be found [here](https://docs.google.com/spreadsheet
 
 ## Contributing
 
-If you would like to add information about missing global maps or fix incorrect information, feel free to make a fork of this repository and create a pull request from your fork to this repo.
+If you would like to add information about missing global maps or fix incorrect information:
+1. Make a fork of this repository 
+2. Run ``maplist-parser.py`` to automatically update the missing map list
+3. Create a pull request from your fork to this repo
 
 The JSON format for a map looks like this:
 
