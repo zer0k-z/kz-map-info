@@ -20,11 +20,11 @@ The JSON format for a map looks like this:
 
 ```json
    {
-      "id":"123",
-      "name":"kz_map",
-      "difficulty":"1",
-      "workshop_url":"https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890",
-      "mapper_name":"mapper name",
-      "mapper_steamid64":"76561198118681904"
+      "id": "123",
+      "name": "kz_map",
+      "difficulty": "1",
+      "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890",
+      "mapper_name": "mapper name",
+      "mapper_steamid64": "76561198118681904"
    }
 ```
