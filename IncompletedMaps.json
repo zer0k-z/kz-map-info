@@ -29,9 +29,9 @@
     },
     {
         "id": "236",
-        "name": "kz_akrh_warehouse_v2_gfix",
+        "name": "kz_akrh_warehouse_v3",
         "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1939575987",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545042781",
         "mapper_name": "AssKicR"
     },
     {
@@ -88,9 +88,9 @@
     },
     {
         "id": "280",
-        "name": "kz_cg_lighthops_go",
+        "name": "kz_cg_lighthops",
         "difficulty": "3",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=352286796",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545050329",
         "mapper_name": "Mentalo, OldHead",
         "mapper_steamid64": "null, 76561198009989298"
     },
@@ -110,9 +110,9 @@
     },
     {
         "id": "324",
-        "name": "kz_ea_beneath_go",
+        "name": "kz_ea_beneath",
         "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=338561631",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545046787",
         "mapper_name": "rad0n, old head",
         "mapper_steamid64": "null, 76561198009989298"
     },

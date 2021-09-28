@@ -2,7 +2,7 @@ bkz_hellokitty_v2 - Missing SteamID(s): Kore
 bkz_underground_crypt_v3 - Missing SteamID(s): Yaznee
 bkz_uninspired_trash - Missing SteamID(s): Felicienne
 kz_7in1 - Missing SteamID(s): Woozie
-kz_akrh_warehouse_v2_gfix - Missing SteamID(s): AssKicR
+kz_akrh_warehouse_v3 - Missing SteamID(s): AssKicR
 kz_beginnerblock_go - Missing SteamID(s): Ovi
 kz_bhop_monsterjam - Missing SteamID(s): Aoki
 kz_bhop_sakura - Missing SteamID(s): .yuka
@@ -10,10 +10,10 @@ kz_bluerace_v2 - Missing SteamID(s): tr4mp
 kz_cartooncastle_go - Missing SteamID(s): karatekafer
 kz_catalyst_gfix - Missing SteamID(s): umbrella
 kz_cg_brick_rmk - Missing SteamID(s): InseN
-kz_cg_lighthops_go - Missing SteamID(s): Mentalo
+kz_cg_lighthops - Missing SteamID(s): Mentalo
 kz_chinablock - Missing SteamID(s): Lehmann
 kz_de_bhop - Missing mapper name
-kz_ea_beneath_go - Missing SteamID(s): rad0n
+kz_ea_beneath - Missing SteamID(s): rad0n
 kz_forestrace_go - Missing SteamID(s): h1m1
 kz_galaxy_go2 - Missing SteamID(s): Woozie
 kz_giantbean - Missing SteamID(s): Kreedz
