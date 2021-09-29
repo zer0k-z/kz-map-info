@@ -1218,7 +1218,7 @@
    },
    {
       "id": "621",
-      "name": "kz_castlehops_v2",
+      "name": "kz_castlehops_v3",
       "difficulty": "2",
       "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1627116280",
       "mapper_name": "FoF, ρ",
@@ -6031,7 +6031,7 @@
    },
    {
       "id": "1006",
-      "name": "kz_beyond",
+      "name": "kz_beyond_fix",
       "difficulty": "3",
       "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2490910998",
       "mapper_name": "SneakY",
