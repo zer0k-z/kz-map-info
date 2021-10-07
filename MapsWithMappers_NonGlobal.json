@@ -1,0 +1,26 @@
+[
+    {
+        "id": "234",
+        "name": "kz_agility_v2_fix",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=392863247",
+        "mapper_name": "Aaron",
+        "mapper_steamid64": "76561198036059696"
+    },
+    {
+        "id": "408",
+        "name": "kz_marblewalls_fixed",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=391298485",
+        "mapper_name": "Aaron",
+        "mapper_steamid64": "76561198036059696"
+    },
+    {
+        "id": "484",
+        "name": "kz_spores_go",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=418447771",
+        "mapper_name": "G O A",
+        "mapper_steamid64": "76561197990887735"
+    }
+]

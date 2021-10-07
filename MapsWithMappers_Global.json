@@ -396,14 +396,6 @@
         "mapper_steamid64": "76561198000829729, 76561198136166348"
     },
     {
-        "id": "234",
-        "name": "kz_agility_v2_fix",
-        "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=392863247",
-        "mapper_name": "Aaron",
-        "mapper_steamid64": "76561198036059696"
-    },
-    {
         "id": "235",
         "name": "kz_ahful",
         "difficulty": "3",
@@ -3586,14 +3578,6 @@
         "mapper_steamid64": "76561197991555455"
     },
     {
-        "id": "408",
-        "name": "kz_marblewalls_fixed",
-        "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=391298485",
-        "mapper_name": "Aaron",
-        "mapper_steamid64": "76561198036059696"
-    },
-    {
         "id": "587",
         "name": "kz_matilda_np",
         "difficulty": "2",
@@ -4962,14 +4946,6 @@
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1126798978",
         "mapper_name": "Steez",
         "mapper_steamid64": "76561198261992780"
-    },
-    {
-        "id": "484",
-        "name": "kz_spores_go",
-        "difficulty": "2",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=418447771",
-        "mapper_name": "G O A",
-        "mapper_steamid64": "76561197990887735"
     },
     {
         "id": "485",
