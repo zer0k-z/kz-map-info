@@ -2348,14 +2348,6 @@
         "mapper_steamid64": "76561198846255522"
     },
     {
-        "id": "474",
-        "name": "kz_gc_shark",
-        "difficulty": "4",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2080951339",
-        "mapper_name": "nykaN, GameChaos",
-        "mapper_steamid64": "76561198014491259, 76561198165203332"
-    },
-    {
         "id": "643",
         "name": "kz_gemischte_gefuehlslagen",
         "difficulty": "6",
@@ -6428,5 +6420,125 @@
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2200731365",
         "mapper_name": "Baron_sexy",
         "mapper_steamid64": "76561198071562472"
+    },
+    {
+        "id": "1095",
+        "name": "kz_kzro_justgrab",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2673087210",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1096",
+        "name": "kz_kzro_tamlair",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2670974706",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1097",
+        "name": "kz_kzro_wallblocks",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2678227256",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1098",
+        "name": "kz_maya",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2672912919",
+        "mapper_name": "pr3da",
+        "mapper_steamid64": "76561198021246024"
+    },
+    {
+        "id": "474",
+        "name": "kz_shark_gc",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2080951339",
+        "mapper_name": "nykaN, GameChaos",
+        "mapper_steamid64": "76561198014491259, 76561198165203332"
+    },
+    {
+        "id": "1099",
+        "name": "kz_solace",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2481042621",
+        "mapper_name": "Ryborg",
+        "mapper_steamid64": "76561198101913104"
+    },
+    {
+        "id": "1100",
+        "name": "kz_sp1_greyhollowrock",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2681713627",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1101",
+        "name": "kz_sp1_kansopyon",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2671761632",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1102",
+        "name": "kz_sp1_parallelblocks",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2674208497",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1103",
+        "name": "kz_sp1_rengapyon",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2681709816",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1104",
+        "name": "kz_sp1_rockcanyonblocks",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2681712564",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1105",
+        "name": "kz_sp1_vines",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2678225129",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1094",
+        "name": "kz_sp1_xmas2021",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2651439611",
+        "mapper_name": "Spider1",
+        "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1106",
+        "name": "kz_sunstone",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2672906492",
+        "mapper_name": "pr3da",
+        "mapper_steamid64": "76561198021246024"
+    },
+    {
+        "id": "1107",
+        "name": "kz_winterize",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2651977086",
+        "mapper_name": "pr3da",
+        "mapper_steamid64": "76561198021246024"
     }
 ]
