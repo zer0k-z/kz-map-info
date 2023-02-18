@@ -1,4 +1,4 @@
-# CS:GO KZ Maps Information
+# CS:GO KZ Maps Information (WIP, outdated)
 
 ## Description
 
