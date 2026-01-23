@@ -527,7 +527,7 @@
         "name": "kz_angina_final",
         "difficulty": "6",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2182136940",
-        "mapper_name": "daolang, Temmie",
+        "mapper_name": "Da0lang, Temmie",
         "mapper_steamid64": "76561198814294487, 76561198137502865"
     },
     {
@@ -2449,7 +2449,7 @@
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156066438",
         "mapper_name": "Kreedz, SinFuL",
-        "mapper_steamid64": "null, 76561197970838363"
+        "mapper_steamid64": "76561197961268065, 76561197970838363"
     },
     {
         "id": "362",
@@ -2457,7 +2457,7 @@
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=219883470",
         "mapper_name": "Kreedz, Spherix",
-        "mapper_steamid64": "null, 76561198016516359"
+        "mapper_steamid64": "76561197961268065, 76561198016516359"
     },
     {
         "id": "363",
@@ -3559,7 +3559,7 @@
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1098716930",
         "mapper_name": "Kreedz, Spherix, GnagarN",
-        "mapper_steamid64": "null, 76561198016516359, 76561198009902429"
+        "mapper_steamid64": "76561197961268065, 76561198016516359, 76561198009902429"
     },
     {
         "id": "942",
@@ -5136,7 +5136,7 @@
         "difficulty": "3",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=279111456",
         "mapper_name": "Kreedz, SinFuL",
-        "mapper_steamid64": "null, 76561197970838363"
+        "mapper_steamid64": "76561197961268065, 76561197970838363"
     },
     {
         "id": "500",
@@ -5176,7 +5176,7 @@
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=269563440",
         "mapper_name": "Kreedz, SinFuL",
-        "mapper_steamid64": "null, 76561197970838363"
+        "mapper_steamid64": "76561197961268065, 76561197970838363"
     },
     {
         "id": "816",
@@ -6716,5 +6716,1333 @@
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2689320117",
         "mapper_name": "Spider1",
         "mapper_steamid64": "76561198042146961"
+    },
+    {
+        "id": "1158",
+        "name": "bkz_canadaszn",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2803881953",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1188",
+        "name": "bkz_kartrider",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2855774377",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1146",
+        "name": "kz_auuughh",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2779959644",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1142",
+        "name": "kz_bhop_algetic",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2714003718",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1147",
+        "name": "kz_bhop_horseshit_9",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2409564309",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1166",
+        "name": "kz_bhop_proxy_null",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2659908590",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1155",
+        "name": "kz_bing",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801057370",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1164",
+        "name": "kz_bozo",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2799144363",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1167",
+        "name": "kz_cajou",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2786547693",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1198",
+        "name": "kz_cf_snakeskin",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2848240295",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1157",
+        "name": "kz_chillin",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2792775035",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1136",
+        "name": "kz_communityblock",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2759907618",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1139",
+        "name": "kz_comp_2022",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2723064461",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1165",
+        "name": "kz_cthulhu",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2805243835",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1145",
+        "name": "kz_dabitu_fix2",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793195299",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1192",
+        "name": "kz_delirium",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2862134660",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1162",
+        "name": "kz_demonhours",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802645047",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1190",
+        "name": "kz_devon",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2821281985",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1148",
+        "name": "kz_difficultas_discendi",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782524502",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1144",
+        "name": "kz_d_decompile",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778773387",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1115",
+        "name": "kz_func_detail_v2",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2777338625",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1199",
+        "name": "kz_glow",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878798211",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1160",
+        "name": "kz_greyorgray",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2810171899",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1163",
+        "name": "kz_gus",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2800112655",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1195",
+        "name": "kz_hoist",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2863353141",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1138",
+        "name": "kz_invision",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2505568567",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1196",
+        "name": "kz_kays",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2823846804",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1140",
+        "name": "kz_kiwideath",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2586763714",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1181",
+        "name": "kz_kiwimind",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2804227764",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1185",
+        "name": "kz_kiwimirific",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2639763129",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1182",
+        "name": "kz_kiwipsychosis",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2837077711",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1183",
+        "name": "kz_kiwiqualia",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2837073727",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1168",
+        "name": "kz_kukkojapallokidutus",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2809008845",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1169",
+        "name": "kz_ladderhorror",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2818587776",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1170",
+        "name": "kz_lastwork_p2",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2659336504",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1132",
+        "name": "kz_leto_v2",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2770345581",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1180",
+        "name": "kz_lovesick",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2830737566",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1200",
+        "name": "kz_ltt",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2827235173",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1201",
+        "name": "kz_mazemerized",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2874636762",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1149",
+        "name": "kz_nebula",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2786639658",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1171",
+        "name": "kz_nomibo",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2816729306",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1202",
+        "name": "kz_persona_is_a_furry",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2869054209",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1151",
+        "name": "kz_rarkovosis",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2779320418",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1159",
+        "name": "kz_ronja",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2796111597",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1172",
+        "name": "kz_scicret",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2808319630",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1131",
+        "name": "kz_sc_ruins",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2727826957",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1184",
+        "name": "kz_simplyhard",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2834348831",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1156",
+        "name": "kz_slide_bozo",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802900434",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1186",
+        "name": "kz_slide_era",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2831110976",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1173",
+        "name": "kz_slide_leto",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2820867309",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1154",
+        "name": "kz_slide_piss",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2807060134",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1203",
+        "name": "kz_slide_red",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2864621400",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1161",
+        "name": "kz_slide_wasteland",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2811655534",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1174",
+        "name": "kz_slowerrun",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2818815755",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1189",
+        "name": "kz_smb",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2808624377",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1187",
+        "name": "kz_something",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2861164520",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "853",
+        "name": "kz_sp1_bloodyljs_v2",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2606898245",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1134",
+        "name": "kz_sp1_shouryokou",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2698479926",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1130",
+        "name": "kz_sp1_spreadblocks",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2695506390",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1152",
+        "name": "kz_sp1_strafechampion",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2604412457",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1133",
+        "name": "kz_sp1_uchuunookuheki",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2698478156",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1141",
+        "name": "kz_spacemario_xt",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2598060940",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1137",
+        "name": "kz_tq",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2757520333",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1175",
+        "name": "kz_tranquillity",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2824447327",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1153",
+        "name": "kz_victoria",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2606336386",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1191",
+        "name": "kz_vnl_crimdaughter",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2858473150",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1176",
+        "name": "kz_vnl_crimson",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2806652135",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1177",
+        "name": "kz_wafflehouse_ez",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2833536140",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1178",
+        "name": "kz_wafflehouse_h",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2755985348",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1135",
+        "name": "kz_xiaobitu",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2717700617",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1204",
+        "name": "kz_xmas2022",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2903891228",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1194",
+        "name": "vnl_sewers",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2860451443",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1221",
+        "name": "kz_acores",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2860249917",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1266",
+        "name": "kz_amandincastle",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3434440155",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1262",
+        "name": "kz_ambition_fix",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3154506045",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1215",
+        "name": "kz_apiisnotresponding",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2902270306",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1229",
+        "name": "kz_automata",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2937336185",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1263",
+        "name": "kz_beyond_v3",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375491179",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1230",
+        "name": "kz_bhop_exodus",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2062204426",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1267",
+        "name": "kz_cf_blockjump",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3444563365",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1228",
+        "name": "kz_cf_foliage",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912641145",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1226",
+        "name": "kz_cf_hestia",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912362662",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1284",
+        "name": "kz_cf_ikumi",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3471973910",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1283",
+        "name": "kz_cf_powerplant",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3468928082",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1216",
+        "name": "kz_cf_slide",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2850852942",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1268",
+        "name": "kz_cf_startingroom",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3444389660",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1231",
+        "name": "kz_climb",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968426732",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1269",
+        "name": "kz_colorado",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3416730842",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "353",
+        "name": "kz_comboking7k",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2939591316",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "712",
+        "name": "kz_cybersand",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2902018186",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1287",
+        "name": "kz_delivery",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3481659992",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1217",
+        "name": "kz_desolate",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2887152988",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1286",
+        "name": "kz_diryaviy_cotow",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3473837685",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1232",
+        "name": "kz_divert",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932601643",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1282",
+        "name": "kz_downfall",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3413764326",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1233",
+        "name": "kz_dystopia_h",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968616938",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1234",
+        "name": "kz_ehcivec",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968550156",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1235",
+        "name": "kz_eilrahc",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968563328",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1236",
+        "name": "kz_euclide_illusionary",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930672856",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1237",
+        "name": "kz_frenzy",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2931430610",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1290",
+        "name": "kz_garish",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/workshop/filedetails/?id=3493251902",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1295",
+        "name": "kz_genotype",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3495428917",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1205",
+        "name": "kz_ggsh",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2896079423",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1206",
+        "name": "kz_ghs",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2880115484",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1163",
+        "name": "kz_gus_sct2",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2923953466",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1207",
+        "name": "kz_hideous",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884851042",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1195",
+        "name": "kz_hoist_fix",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2911343669",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1238",
+        "name": "kz_hope",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2949507458",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1296",
+        "name": "kz_house",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3498930058",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1239",
+        "name": "kz_hypothermia",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2833300630",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1208",
+        "name": "kz_igneous",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884130812",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1218",
+        "name": "kz_itz_updown",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2056183588",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1271",
+        "name": "kz_kiwibridge",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435958254",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1241",
+        "name": "kz_kiwiexophoric",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2963440846",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1272",
+        "name": "kz_kiwiparadise",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435959338",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1209",
+        "name": "kz_kiwislide",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2849914173",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1273",
+        "name": "kz_kiwispin",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435958755",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1274",
+        "name": "kz_kiwivision",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435959701",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1240",
+        "name": "kz_kiwi_hym",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2923403046",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1291",
+        "name": "kz_kiwi_trol",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3453055816",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1242",
+        "name": "kz_kogamaostry",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2961792622",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1210",
+        "name": "kz_lmn",
+        "difficulty": "1",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884045291",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1243",
+        "name": "kz_maxine",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930798940",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1244",
+        "name": "kz_mediumcastle",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930926269",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1294",
+        "name": "kz_micro_bad",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3497681330",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1245",
+        "name": "kz_monstrosity",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2890693332",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1246",
+        "name": "kz_nbdy_maps",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968543739",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1293",
+        "name": "kz_notes",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3498073777",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1288",
+        "name": "kz_nx_deciduous",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3493349597",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1247",
+        "name": "kz_pamehcilc",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2471139968",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1248",
+        "name": "kz_prefix_cliche",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2471594475",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1276",
+        "name": "kz_pyromancy",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2559520070",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1275",
+        "name": "kz_rc_safflower",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3391097143",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1285",
+        "name": "kz_refurinfunflay",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3467507089",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1249",
+        "name": "kz_rlk",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2807660320",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1292",
+        "name": "kz_sakhalin",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3453820309",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1250",
+        "name": "kz_sandbox",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2875119915",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1277",
+        "name": "kz_sanguine",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3438089154",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1280",
+        "name": "kz_silk_e",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3453282890",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1251",
+        "name": "kz_sp1_saishuu",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2963007117",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1211",
+        "name": "kz_surf_abaddon",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2896423858",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1289",
+        "name": "kz_svtwo",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3476042547",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1225",
+        "name": "kz_sxb_biewan",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2911821851",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1252",
+        "name": "kz_sxb_despacito",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910317516",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1278",
+        "name": "kz_sxb_isbhop",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912314385",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1224",
+        "name": "kz_sxb_makabaka",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922345111",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1227",
+        "name": "kz_sxb_poi",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910314063",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1254",
+        "name": "kz_sxb_remake",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910319397",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1223",
+        "name": "kz_sxb_xbcmzl",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2921852438",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1219",
+        "name": "kz_tangent",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2905152953",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1220",
+        "name": "kz_tense",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2810819317",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1279",
+        "name": "kz_thps4_london",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2780549254",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1255",
+        "name": "kz_tmnf_e05",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2647318171",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1256",
+        "name": "kz_vnl_crimdaddy",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2966796149",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1212",
+        "name": "kz_vnl_crimstmas",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2903326571",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1213",
+        "name": "kz_w1_holiday",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2890033010",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1177",
+        "name": "kz_wafflehouse_easy",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968073595",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1178",
+        "name": "kz_wafflehouse_hard",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968095089",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1257",
+        "name": "kz_wafflehouse_x",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968088767",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1258",
+        "name": "kz_zhongbitu",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2921850681",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1264",
+        "name": "skz_malaka",
+        "difficulty": "6",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1340859713",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1259",
+        "name": "vnl_caverun",
+        "difficulty": "4",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2967091109",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1214",
+        "name": "vnl_farewell_fix",
+        "difficulty": "5",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2891185804",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1260",
+        "name": "vnl_lea",
+        "difficulty": "3",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968547312",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1261",
+        "name": "vnl_ll_nuke",
+        "difficulty": "2",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968568955",
+        "mapper_name": {},
+        "mapper_steamid64": {}
+    },
+    {
+        "id": "1297",
+        "name": "vnl_sewer",
+        "difficulty": "7",
+        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3466312653",
+        "mapper_name": {},
+        "mapper_steamid64": {}
     }
 ]
