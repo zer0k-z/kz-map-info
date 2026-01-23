@@ -16,7 +16,6 @@ kz_de_bhop - Missing mapper name
 kz_ea_beneath - Missing SteamID(s): rad0n
 kz_forestrace_go - Missing SteamID(s): h1m1
 kz_galaxy_go2 - Missing SteamID(s): Woozie
-kz_haki_v2 - Missing SteamID(s): a$ce
 kz_halicarnassus_fs - Missing SteamID(s): Zengal
 kz_kzse_aztectemple - Missing SteamID(s): aegget
 kz_littlerock_v2 - Missing SteamID(s): Surion
@@ -26,12 +25,10 @@ kz_nightmare_v2 - Missing SteamID(s): m-tet
 kz_pharaoh_csgo - Missing SteamID(s): Daniel_Lyness
 kz_pianoclimb_go - Missing SteamID(s): DyleT2
 kz_quadrablock - Missing SteamID(s): Pix
-kz_sanctuary - Missing SteamID(s): a$ce
 kz_sukblock_v2_fixed - Missing SteamID(s): SuckY' TearZ
 kz_tomb_fix - Missing SteamID(s): MoHaX_cm
 kz_toughluck_fix - Missing SteamID(s): TurboAgent
 kz_tron_global - Missing SteamID(s): ><))'> FISHY
-kz_xand - Missing SteamID(s): a$ce
 xc_fox_shrine_japan_fr - Missing SteamID(s): incAming
 xc_skycastle - Missing SteamID(s): Bendix
 xc_supermario_go_gfix - Missing SteamID(s): Iconic

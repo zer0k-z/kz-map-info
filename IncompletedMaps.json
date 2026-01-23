@@ -132,13 +132,6 @@
         "mapper_name": "Woozie"
     },
     {
-        "id": "371",
-        "name": "kz_haki_v2",
-        "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156066638",
-        "mapper_name": "a$ce"
-    },
-    {
         "id": "499",
         "name": "kz_halicarnassus_fs",
         "difficulty": "3",
@@ -206,13 +199,6 @@
         "mapper_steamid64": "null, 76561197970838363"
     },
     {
-        "id": "468",
-        "name": "kz_sanctuary",
-        "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=387095066",
-        "mapper_name": "a$ce"
-    },
-    {
         "id": "491",
         "name": "kz_sukblock_v2_fixed",
         "difficulty": "1",
@@ -239,13 +225,6 @@
         "difficulty": "3",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=406055395",
         "mapper_name": "><))'> FISHY"
-    },
-    {
-        "id": "523",
-        "name": "kz_xand",
-        "difficulty": "1",
-        "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=387908744",
-        "mapper_name": "a$ce"
     },
     {
         "id": "560",

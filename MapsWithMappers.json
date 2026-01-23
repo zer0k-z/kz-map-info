@@ -2576,7 +2576,8 @@
         "name": "kz_haki_v2",
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156066638",
-        "mapper_name": "a$ce"
+        "mapper_name": "a$ce",
+        "mapper_steamid64": "76561197987607223"
     },
     {
         "id": "499",
@@ -4506,7 +4507,8 @@
         "name": "kz_sanctuary",
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=387095066",
-        "mapper_name": "a$ce"
+        "mapper_name": "a$ce",
+        "mapper_steamid64": "76561197987607223"
     },
     {
         "id": "469",
@@ -5484,7 +5486,8 @@
         "name": "kz_xand",
         "difficulty": "1",
         "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=387908744",
-        "mapper_name": "a$ce"
+        "mapper_name": "a$ce",
+        "mapper_steamid64": "76561197987607223"
     },
     {
         "id": "615",
